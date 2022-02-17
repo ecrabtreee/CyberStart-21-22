@@ -2,6 +2,8 @@
 # Handy Variables
 # Next, let's take a look at something called variables, a really simple programming concept (it's just a box with a label that can hold something), but a thing you'll find very useful as you go on to do more advanced things.
 
+#----------------------------------------------------------------------------
+
 # A variable is just a box with a label on it that can hold something.
 
 # What you put in the box is up to you, but no matter what is inside,
