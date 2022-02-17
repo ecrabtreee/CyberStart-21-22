@@ -51,8 +51,11 @@ print(stuff)
 
 # CHALLENGE 5: Print the variables out in order of the challenge
 # number. i.e Challenge 1 first, then Challenge 2, and so on.
+
 # ---------------------------------------------------------------------------------
-# Solution
+
+# SOLUTION
+
 # CHALLENGE 1: First create a variable called aString and assign it
 # the following text: Testing
 # Remember the format to assign data to a variable
