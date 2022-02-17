@@ -17,4 +17,11 @@
 
 # SOLUTION
 
-# Flag =
+# Ok, quick task for you agent - we've received a strange file from
+# the first alien communication.
+# It's at /tmp/alien-signal.txt, we need you to open and read the file.
+
+f = open ("/tmp/alien-signal.txt","r")
+print(f.readline ())
+
+# Flag = sVAajjbQ42fUwY7udaKq
