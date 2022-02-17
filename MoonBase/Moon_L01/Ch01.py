@@ -4,6 +4,8 @@
 # We have an interactive code editor for you to learn on, the CPA MoonCoder. Simply change the code in the editor on the left side and click the green "Submit code" button to make it run. You'll then see the output of your code (along with a flag to submit if you get it correct) on the right side.
 # And don't forget, if you get stuck you can click "Use a hint". Whilst you're in training you won't lose any points for doing so.
 
+#-----------------------------------------------------------------------------
+
 # This is a code comment
 # Anything with a '#' before it is considered a comment and ignored.
 # You can use these for writing notes about what your code is doing.
