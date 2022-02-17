@@ -25,8 +25,10 @@ print(42)
 # CHALLENGE 1: First print out the text: Hello, World
 
 # CHALLENGE 2: Next print out the numbers: 1337
+
 # ---------------------------------------------------------------------------------------------------------------------------------
-# Solution
+
+# SOLUTION
 
 # CHALLENGE 1: First print out the text: Hello, World
 print("Hello, World")
