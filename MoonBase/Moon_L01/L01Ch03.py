@@ -67,4 +67,3 @@ carDoorsString = str(carDoors)
 # using print(carInfo + carDoorsString)
 print(carInfo + carDoorsString)
 
-# Flag = BTAcahNLr9lkUd0mqCky
