@@ -81,5 +81,3 @@ print(aString)
 print(anInt)
 print(aFloat)
 print(aBool)
-
-# Flag = wRPzmkBxj7sPhEV7jYWy
