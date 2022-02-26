@@ -48,4 +48,4 @@ for i in range(20):
   if os.path.isfile(fname):
     count += 1
     
-# Flag = The output given (pd8XO3B2jHxVgRDIqImc)
+# Flag = The output given
