@@ -76,5 +76,3 @@ for i in range(7):
   robot.right()
 
 robot.up()
-
-# Flag = 9VzR6mOzWcxormr5iBOE
