@@ -23,5 +23,3 @@
 
 f = open ("/tmp/alien-signal.txt","r")
 print(f.readline ())
-
-# Flag = sVAajjbQ42fUwY7udaKq
