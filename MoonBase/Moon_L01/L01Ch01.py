@@ -34,5 +34,3 @@ print(42)
 print("Hello, World")
 # CHALLENGE 2: Next print out the numbers: 1337
 print(1337)
-
-#Flag: diKwMDpK0A7S5jeOkOra
